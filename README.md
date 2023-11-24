@@ -1,5 +1,9 @@
 # flutter_app1
 
+Uncover the Layers of Your Personality with Every Answer
+
+Who Are You? is a cross-platform Flutter mobile application that engages users with thought-provoking questions, utilizing analytical and logical algorithms to derive and present a comprehensive character analysis based on their responses. The app offers a unique and insightful way for users to explore and understand their personalities through a structured questionnaire.
+
 A new Flutter application.
 
 ## Getting Started
